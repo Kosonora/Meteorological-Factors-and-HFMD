@@ -1,0 +1,7 @@
+,气象变量,回归系数,t统计量绝对值,p值,重要性(系数绝对值)
+temperature_mean,temperature_mean,2094.9747,inf,0.0,2094.9747
+temperature_min,temperature_min,-1022.3044,inf,0.0,1022.3044
+temperature_max,temperature_max,-1156.8052,5.823803445215496e+36,0.0,1156.8052
+petPM(mm),petPM(mm),65.3222,3.273462076513357e+35,0.0,65.3222
+precipitation(mm),precipitation(mm),28.3995,5.309585219816055e+34,0.0,28.3995
+precipitation(mm)_Log1,precipitation(mm)_Log1,22.4363,1.0352244138336122e+35,0.0,22.4363
