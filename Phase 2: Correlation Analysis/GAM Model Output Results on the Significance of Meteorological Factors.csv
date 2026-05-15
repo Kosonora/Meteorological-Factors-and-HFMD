@@ -1,0 +1,10 @@
+,Feature,Pvalue
+0,Pressure(hPa),0.0
+1,RH(%),0.0
+2,WindSpeed(m/s),0.0
+3,temperature_mean,0.0
+4,temperature_min,0.0
+5,temperature_max,0.0
+6,petPM(mm),0.0
+7,precipitation(mm),0.0
+8,precipitation(mm)_lag1,0.0
